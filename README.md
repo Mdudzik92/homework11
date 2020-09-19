@@ -18,8 +18,9 @@ The user can fill out a note however they want:
 They can then save their information, logging it to db.json:
 <img src="./listeningport.jpg">
 <img src="./dbjson.jpg">
+Their note appears in a list on the left side of the page after clicking the save disc button on the top right of the page:
 <img src="./aftersave.jpg">
-The user can then delete their not by clicking the trash can button next to the saved note:
+The user can then delete their note by clicking the trash can button next to the saved note:
 <img src="./afterdelete.jpg">
 
 <!-- License -->
